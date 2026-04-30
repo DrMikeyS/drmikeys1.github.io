@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>LinkedIn</title>
+  <circle cx="64" cy="64" r="61" fill="#fff" stroke="#e5e5e5" stroke-width="6"/>
+  <g fill="none" stroke="#777" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.5">
+    <circle cx="44" cy="45" r="3.8" fill="#777" stroke="none"/>
+    <path d="M44 61v28"/>
+    <path d="M61 89V61"/>
+    <path d="M61 72c0-8 5.8-13 13-13 8.5 0 14 6 14 16v14"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>Substack</title>
+  <circle cx="64" cy="64" r="61" fill="#fff" stroke="#e5e5e5" stroke-width="6"/>
+  <g fill="none" stroke="#777" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.5">
+    <path d="M42 38h44"/>
+    <path d="M42 52h44"/>
+    <path d="M42 66h44v30L64 84 42 96V66z"/>
+  </g>
+</svg>
